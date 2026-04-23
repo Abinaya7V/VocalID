@@ -1,10 +1,19 @@
-# VocalID — PHP + MySQL Setup Guide
-## Complete XAMPP Installation Instructions
+# VocalID - Voice Biometric Attendance System
 
----
+## Features
+- Student login
+- Attendance tracking
+- Voice authentication
 
-## 📁 Final Project File Structure
+## How to run
+1. Install XAMPP
+2. Import database
+3. Run localhost/vocalid
 
+## Technologies
+- PHP
+- MySQL
+- HTML/CSS/JS
 ```
 htdocs/vocalid/
 │
